@@ -45,5 +45,8 @@ nb-configuration.xml
 .certs/
 
 # DB
-./db/*.db 
+db/*.db
+src/main/resources/sql/*.sql
+
+
 
