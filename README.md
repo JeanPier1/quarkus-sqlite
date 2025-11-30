@@ -59,4 +59,18 @@ If you want to learn more about building native executables, please consult <htt
 
 Easily start your REST Web Services
 
+
+
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+## DATABASE
+
+Use SQLite as a database
+
+> **_NOTE:_**  Create file `db/` and  `src/main/resources/sql/` before running the application
+
+
+## TESTS
+
+Use Junit Jupiter for testing and Quarkus Test for integration testing
+
